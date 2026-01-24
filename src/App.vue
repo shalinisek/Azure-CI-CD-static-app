@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Welcome to MLOps world AWS, Azure, GCP :) </h1>
+    <h1>Welcome to the world of AI </h1>
 	<h2>Upload your data to get Gen Ai predictions :) </h2>
     <img
       alt="Vue logo"
